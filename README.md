@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willmendonca90
-- 👀 I’m interested in learn some skills of IA
-- 🌱 I’m currently learning Data Science with Python and Pandas
+- 👀 Soon I'll become a Front End Dev
+- 🌱 I’m currently learning HTML, CSS, JavaScript
 - 📫 How to reach me @willmendonca90 on Instagram
 
 <!---
